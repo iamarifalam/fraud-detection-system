@@ -1,5 +1,8 @@
-.venv
+.venv/
 __pycache__/
-node_modules/
+*.pyc
 .env
 .DS_Store
+node_modules/
+mlruns/
+*.log
